@@ -57,6 +57,8 @@ function searchByTitle(){
 }
 
 
+
+
 // function showTopMovies(){
 //     const options1 = {
 //         method: 'GET',
