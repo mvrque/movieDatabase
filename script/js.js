@@ -56,6 +56,7 @@ function searchByTitle(){
         .catch(err => console.error(err));
 }
 
+
 // function showTopMovies(){
 //     const options1 = {
 //         method: 'GET',
