@@ -54,8 +54,6 @@ function searchByTitle(){
                 
         })
         .catch(err => console.error(err));
-    
-
 }
 
 // function showTopMovies(){
